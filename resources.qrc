@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/atomic.png</file>
+        <file>icons/bar-chart.png</file>
+        <file>icons/home.png</file>
+        <file>icons/loupe.png</file>
+        <file>icons/correct.png</file>
+        <file>icons/incorrect.png</file>
+        <file>icons/logo.png</file>
+        <file>icons/like.png</file>
+    </qresource>
+</RCC>
